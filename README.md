@@ -1,5 +1,3 @@
-# Notes
-
 ## Node.js Backend Frameworks
 
 - [Express.js](https://expressjs.com/)

@@ -24,4 +24,12 @@
 
 ## CSS
 
+- [tailwindcss](https://tailwindcss.com/)
+- [daisyUI](https://daisyui.com/)
+- [windicss](https://windicss.org/)
 - [vanilla-extract](https://vanilla-extract.style/)
+- [panda-css](https://panda-css.com/)
+- [UnoCSS](https://unocss.dev/)
+- [pico.css](https://picocss.com/)
+- [Class Variance Authority](https://cva.style/docs)
+- [stitches](https://stitches.dev/)

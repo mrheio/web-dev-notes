@@ -11,7 +11,8 @@
 - [Sails.js](https://sailsjs.com/)
 - [LoopBack](https://loopback.io/)
 - [FoalTS](https://foalts.org/)
-- [Hapi](https://hapi.dev/ )
+- [Hapi](https://hapi.dev/)
+- [tRPC](https://trpc.io/)
 
 ## Fetch alternatives
 - [wretch](https://github.com/elbywan/wretch)

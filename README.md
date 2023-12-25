@@ -33,3 +33,12 @@
 - [pico.css](https://picocss.com/)
 - [Class Variance Authority](https://cva.style/docs)
 - [stitches](https://stitches.dev/)
+
+### CSS Styleguides
+
+- [SMACSS](https://smacss.com/)
+- [BEM](https://getbem.com/introduction/)
+- [CUBE CSS](https://cube.fyi/)
+- [Atomic CSS](https://acss.io/)
+- [RSCSS](https://ricostacruz.com/rscss/)
+- [itcss](https://itcss.io/)

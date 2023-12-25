@@ -16,7 +16,12 @@
 - [tRPC](https://trpc.io/)
 
 ## Fetch alternatives
+
 - [wretch](https://github.com/elbywan/wretch)
 - [ky](https://github.com/sindresorhus/ky)
 - [got](https://github.com/sindresorhus/got)
 - [r2](https://github.com/mikeal/r2)
+
+## CSS
+
+- [vanilla-extract](https://vanilla-extract.style/)

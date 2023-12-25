@@ -6,6 +6,7 @@
 - [Koa.js](https://koajs.com/)
 - [Fastify](https://fastify.dev/)
 - [NestJS](https://nestjs.com/)
+  - Nestia
 - [AdonisJS](https://adonisjs.com/)
 - [Feathers.js](https://feathersjs.com/)
 - [Sails.js](https://sailsjs.com/)

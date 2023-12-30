@@ -12,6 +12,7 @@
 - [FoalTS](https://foalts.org/)
 - [Hapi](https://hapi.dev/)
 - [tRPC](https://trpc.io/)
+- [Hono](https://hono.dev/)
 
 ## Fetch alternatives
 
